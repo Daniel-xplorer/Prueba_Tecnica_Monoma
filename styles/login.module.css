@@ -1,0 +1,25 @@
+.inputPassword {
+    position: relative;
+}
+.iconHide {
+    max-width: 1.3rem;
+    max-height: 1rem;
+    position: absolute;
+    left: 11vw;
+    top: 15%;
+    cursor: pointer;
+}
+.formGroup {
+    display: grid;
+}
+.input {
+    width : 12vw;
+}
+.loginContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background: #eee;
+}
